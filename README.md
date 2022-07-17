@@ -29,6 +29,6 @@ Repos: [https://github.com/sohanemon](https://github.com/sohanemon?tab=repositor
 ## Acknowledgements
 
 
-- [Shields.io](https://shields.io/)
+
 - [ProgrammingHero1](https://programming-hero.com)
 - [Fireship](https://fireship.io)
