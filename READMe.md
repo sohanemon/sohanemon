@@ -49,3 +49,11 @@
     <img height='64' src='./images/tech-stack/tech-stack (3).png'>
     <img height='64' src='./images/tech-stack/tech-stack (1).png'>
 </p>
+
+<br>
+<h1 align='center' style='color: #7895B2'> 🔥 My streak stats</h1>
+<br>
+<p align='center'>
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=sohanemon&background=E8DFCA&sideNums=7895B2&sideLabels=AEBDCA&currStreakNum=FB8C00&dates=AEBDCA" />
+
+</p>
