@@ -1,36 +1,6 @@
 <link href="./styles/output.css" rel="stylesheet"></link>
 <link href="./styles/mine.css" rel="stylesheet"></link>
 
-<style>
-.texts {
-}
-#overview {
-  display: flex;
-  align-items: center;
-  flex-wrap: wrap;
-  justify-content: center;
-  /* gap: 20px; */
-}
-#overview > article {
-  width:60%;
-}
-#overview > aside {
-  width: 30%;
-}
-
-.overview__text {
-  font-size: 16px;
-  text-align: justify;
-}
-
-/* @media only screen and (max-width: 768px) {
-  #overview > * {
-  width:100%;
-}
-}*/
-
-</style>
-
 ![I am a junior web developer](./images//banner.png)
 
 <!-- connection section -->
