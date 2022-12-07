@@ -1,6 +1,5 @@
 ![I am a junior web developer](./images//banner.png)
 
-
 <!-- connection section -->
 <div align='center'>
 <h1  style='color: #7895B2'> 📨 Connect with me</h1>
@@ -45,9 +44,11 @@
 </p>
 
 <br>
-<h1 align='center' style='color: #7895B2'> 🔥 My streak stats</h1>
+<h1 align='center' style='color: #7895B2'> 🔥 My streak stats and more</h1>
 <br>
 <p align='center'>
   <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=sohanemon&background=0d1117&sideNums=E8DFCA&sideLabels=AEBDCA&currStreakNum=FB8C00&dates=AEBDCA" />
 
 </p>
+<br>
+<p align='center'><img width="80%" align="center" src="https://github-readme-stats.vercel.app/api?username=sohanemon&show_icons=true&locale=en&theme=transparent&bg_color=0d1117&icon_color=E8DFCA&text_color=AEBDCA&title_color=FB8C00" alt="sohanemon" /></p>
