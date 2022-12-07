@@ -4,52 +4,8 @@
   display: flex
 }
 
-.grid {
-  display: grid
-}
-
-.h-12 {
-  height: 3rem
-}
-
-.w-full {
-  width: 100%
-}
-
-.grid-cols-4 {
-  grid-template-columns: repeat(4, minmax(0, 1fr))
-}
-
 .flex-wrap {
   flex-wrap: wrap
-}
-
-.items-center {
-  align-items: center
-}
-
-.justify-center {
-  justify-content: center
-}
-
-.text-7xl {
-  font-size: 4.5rem;
-  line-height: 1
-}
-
-.text-base {
-  font-size: 1rem;
-  line-height: 1.5rem
-}
-
-.text-3xl {
-  font-size: 1.875rem;
-  line-height: 2.25rem
-}
-
-.text-5xl {
-  font-size: 3rem;
-  line-height: 1
 }
 
 .text-4xl {
@@ -57,24 +13,7 @@
   line-height: 2.5rem
 }
 
-.text-xl {
-  font-size: 1.25rem;
-  line-height: 1.75rem
-}
-
 .text-github {
   --tw-text-opacity: 1;
   color: rgb(120 149 178 / var(--tw-text-opacity))
-}
-
-@media (min-width: 768px) {
-  .md\:text-3xl {
-    font-size: 1.875rem;
-    line-height: 2.25rem
-  }
-
-  .md\:text-4xl {
-    font-size: 2.25rem;
-    line-height: 2.5rem
-  }
 }
