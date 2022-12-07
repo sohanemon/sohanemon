@@ -9,15 +9,13 @@
   align-items: center;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 20px;
+  /* gap: 20px; */
 }
 #overview > article {
   width:60%;
-  margin: 0 auto;
 }
 #overview > aside {
   width: 30%;
-  margin: 0 auto;
 }
 
 .overview__text {
@@ -25,10 +23,10 @@
   text-align: justify;
 }
 
-@media only screen and (max-width: 768px) {
+/* @media only screen and (max-width: 768px) {
   #overview > * {
   width:100%;
-}
+} */
 }
 
 </style>
