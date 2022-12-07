@@ -31,3 +31,14 @@
 ### 💪 My motivation - Act what you want to be.
 
 <br>
+<br>
+<h1 align='center' style='color: #7895B2'> 💻 My tech stack</h1>
+<br>
+
+<p align='center'>
+    <img height='64' src='./images/tech-stack/tech-stack (4).png'>
+    <img height='64' src='./images/tech-stack/tech-stack (5).png'>
+    <img height='64' src='./images/tech-stack/tech-stack(2).png'>
+    <img height='64' src='./images/tech-stack/tech-stack (3).png'>
+    <img height='64' src='./images/tech-stack/tech-stack (1).png'>
+</p>
