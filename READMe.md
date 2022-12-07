@@ -1,4 +1,4 @@
-![I am a junior web developer](./images//banner.png)
+![I am a junior web developer](./images/dark.png)
 
 <!-- connection section -->
 <div align='center'>
