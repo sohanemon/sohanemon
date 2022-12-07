@@ -1,6 +1,3 @@
-<link href="./styles/output.css" rel="stylesheet"></link>
-<link href="./styles/mine.css" rel="stylesheet"></link>
-
 ![I am a junior web developer](./images//banner.png)
 
 <!-- connection section -->
@@ -20,19 +17,17 @@
 
 <!-- overview section -->
 <br>
-<h1 align='center' class='text-4xl text-github'> 🪟 Current overview</h1>
+<h1 align='center' > 🪟 Current overview</h1>
 <br>
-<section id='overview'>
-<article align='left' class='texts'>
 
-<p class='overview__text'> 🔭 I’m looking - For an intern.</p>
-<p class='overview__text'> 🌱 I’m exploring - Three.js</p>
+<a  href="https://app.daily.dev/sohanemon"><img align='right'  width="150" src="https://api.daily.dev/devcards/a65c27b2cc174d40bf2c643b7da67366.png?r=hy5" align='center' alt="Sohanur Rahman Emon's Dev Card"/></a>
 
-<p class='overview__text'> ⚡ My motivation - Act what you want to be.</p>
+### 🔎 I’m looking - For an intern.
 
-</article>
-<aside >
-<a  href="https://app.daily.dev/sohanemon"><img  width="150" src="https://api.daily.dev/devcards/a65c27b2cc174d40bf2c643b7da67366.png?r=hy5" align='center' alt="Sohanur Rahman Emon's Dev Card"/></a>
-</aside>
+### 💥 I’m exploring - Three.js.
 
-</section>
+### 🧑‍🤝‍🧑 I’m eager - To collaborate on open source projects.
+
+### 💪 My motivation - Act what you want to be.
+
+<br>
