@@ -1,11 +1,5 @@
 ![I am a junior web developer](./images//banner.png)
 
-<style>
-    #stack > img {
-        border-radius: 30%;
-        padding: 10px;
-    }
-</style>
 
 <!-- connection section -->
 <div align='center'>
