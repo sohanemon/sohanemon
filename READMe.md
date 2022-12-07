@@ -27,7 +27,7 @@
   #overview > * {
   width:100%;
 }
-}#/
+}*/
 
 </style>
 
