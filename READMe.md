@@ -48,6 +48,6 @@
 <h1 align='center' style='color: #7895B2'> 🔥 My streak stats</h1>
 <br>
 <p align='center'>
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=sohanemon&background=7895B2&sideNums=E8DFCA&sideLabels=AEBDCA&currStreakNum=FB8C00&dates=AEBDCA" />
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=sohanemon&background=0d1117&sideNums=E8DFCA&sideLabels=AEBDCA&currStreakNum=FB8C00&dates=AEBDCA" />
 
 </p>
