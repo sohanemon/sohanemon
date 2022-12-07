@@ -1,4 +1,37 @@
 <link href="./styles/output.css" rel="stylesheet"></link>
+<link href="./styles/mine.css" rel="stylesheet"></link>
+
+<style>
+.texts {
+}
+#overview {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+#overview > article {
+  width:60%;
+  margin: 0 auto;
+}
+#overview > aside {
+  width: 30%;
+  margin: 0 auto;
+}
+
+.overview__text {
+  font-size: 16px;
+  text-align: justify;
+}
+
+@media only screen and (max-width: 768px) {
+  #overview > * {
+  width:100%;
+}
+}
+
+</style>
 
 ![I am a junior web developer](./images//banner.png)
 
@@ -18,8 +51,20 @@
 </div>
 
 <!-- overview section -->
+<br>
+<h1 align='center' class='text-4xl text-github'> 🪟 Current overview</h1>
+<br>
+<section id='overview'>
+<article align='left' class='texts'>
 
-<div align='center'>
-<h1 class='text-4xl text-github'> 🪟 Current overview</h1>
-<a align='center' href="https://app.daily.dev/sohanemon"><img src="https://api.daily.dev/devcards/a65c27b2cc174d40bf2c643b7da67366.png?r=hy5" width="400" alt="Sohanur Rahman Emon's Dev Card"/></a>
-</div>
+<p class='overview__text'> 🔭 I’m looking - For an intern.</p>
+<p class='overview__text'> 🌱 I’m exploring - Three.js</p>
+
+<p class='overview__text'> ⚡ My motivation - Act what you want to be.</p>
+
+</article>
+<aside >
+<a  href="https://app.daily.dev/sohanemon"><img  width="150" src="https://api.daily.dev/devcards/a65c27b2cc174d40bf2c643b7da67366.png?r=hy5" align='center' alt="Sohanur Rahman Emon's Dev Card"/></a>
+</aside>
+
+</section>
