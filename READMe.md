@@ -5,13 +5,13 @@
 <div align='center'>
 <h1  style='color: #7895B2'> 📨 Connect with me</h1>
 
-<a class='' href='https://facebook.com/m.sohanemon'>
+<a target='_blank' class='' href='https://facebook.com/m.sohanemon'>
     <img src='./images/buttons/facebook.png'>
 </a>
-<a class='' href='https://linkedin.com/in/sohanemon'>
+<a target='_blank' class='' href='https://linkedin.com/in/sohanemon'>
     <img src='./images/buttons/linkedin.png'>
 </a>
-<a class='' href='https://twitter.com/sohanemon'>
+<a target='_blank' class='' href='https://twitter.com/sohanemon'>
     <img src='./images/buttons/twitter.png'>
 </a>
 </div>
