@@ -1,5 +1,12 @@
 ![I am a junior web developer](./images//banner.png)
 
+<style>
+    #stack > img {
+        border-radius: 30%;
+        padding: 10px;
+    }
+</style>
+
 <!-- connection section -->
 <div align='center'>
 <h1  style='color: #7895B2'> 📨 Connect with me</h1>
@@ -35,7 +42,7 @@
 <h1 align='center' style='color: #7895B2'> 💻 My tech stack</h1>
 <br>
 
-<p align='center'>
+<p id='stack' align='center'>
     <img height='64' src='./images/tech-stack/tech-stack (4).png'>
     <img height='64' src='./images/tech-stack/tech-stack (5).png'>
     <img height='64' src='./images/tech-stack/tech-stack(2).png'>
