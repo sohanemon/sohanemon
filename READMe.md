@@ -51,7 +51,9 @@
 
 </p>
 <br>
+<!--
 <p align='center'><img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=sohanemon&show_icons=true&locale=en&theme=transparent&bg_color=0d1117&icon_color=E8DFCA&text_color=AEBDCA&title_color=FB8C00" alt="sohanemon" /></p>
 
 <br>
 <p align='center'><img width='50%' src="https://github-readme-stats.vercel.app/api/top-langs?username=sohanemon&show_icons=true&locale=en&layout=compact&theme=transparent&bg_color=0d1117&icon_color=E8DFCA&text_color=AEBDCA&title_color=FB8C00" alt="sohanemon" /></p>
+-->
