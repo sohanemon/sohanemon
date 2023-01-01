@@ -32,15 +32,15 @@ src="https://img.shields.io/twitter/follow/sohanemon?logo=twitter&style=for-the-
 
 ### 🧠 I'm learning - GraphQL
 
-### 🧑‍🤝‍🧑 I’m eager - To collaborating on <br> Interesting Projects
+### 🧑‍🤝‍🧑 I’m eager - To collaborating on Interesting Projects
 
 ### ⚡ My motivation - Act what you want to be.
 
 </p>
-<br>
 
 
 <!-- skills  -->
+<br>
 <br>
 <h1 align='center'  style='color: #7895B2'> 💪 Skills</h1>
 <p align="center">
@@ -70,6 +70,8 @@ src="https://img.shields.io/twitter/follow/sohanemon?logo=twitter&style=for-the-
 
 
 <!-- github stats -->
+<br>
+<br>
 <h1 align='center' style='color: #7895B2'> 🔥 My streak stats and more</h1> 
 <p align='center'>
   <img   src="https://github-readme-stats.vercel.app/api?username=sohanemon&show_icons=true&hide=&count_private=true&title_color=FB8C00&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=false&show_icons=true" alt="sohanemon's GitHub stats" />
