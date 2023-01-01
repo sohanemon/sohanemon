@@ -89,14 +89,22 @@ src="https://img.shields.io/twitter/follow/sohanemon?logo=twitter&style=for-the-
 
 
 
-<div style='display: flex; align-items: center; margin: 10px 0'>
-  <img width="50%" align='left' src="https://github-readme-streak-stats.herokuapp.com/?user=sohanemon&background=0d1117&sideNums=E8DFCA&sideLabels=AEBDCA&currStreakNum=FB8C00&dates=AEBDCA" />
+
+ 
+ <p align='center'>
+ <img   src="https://github-readme-streak-stats.herokuapp.com/?user=sohanemon&background=0d1117&sideNums=E8DFCA&sideLabels=AEBDCA&currStreakNum=FB8C00&dates=AEBDCA" />
   
- <img   width="50%" align='right' src="https://github-readme-stats.vercel.app/api?username=sohanemon&show_icons=true&hide=&count_private=true&title_color=FB8C00&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=false&show_icons=true" alt="sohanemon's GitHub stats" />
+ </p>
+ <p align='center'>
+ 
+ <img   src="https://github-readme-stats.vercel.app/api?username=sohanemon&show_icons=true&hide=&count_private=true&title_color=FB8C00&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=false&show_icons=true" alt="sohanemon's GitHub stats" />
   
  
+ </p>
+ 
+  
 
-</div>
+
 
 <p align='center'><a href="http://www.github.com/sohanemon"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sohanemon&bg_color=0d1117&color=ffffff&line=FB8C00&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 </p>
