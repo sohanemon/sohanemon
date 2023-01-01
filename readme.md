@@ -1,10 +1,9 @@
 
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)This is Sohanur Rahman Emon
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)This is 👇
 ===========================================================================================================================================
 
 ![I am a new junior frontend developer](./images/dark.png)
-## Junior Web Developer
 
 - 🌍 Based in [Dhaka, Bangladesh](https://goo.gl/maps/huvdBTHzafPSi3NG9)
 - 🖥️ See my portfolio at [SohanEmon](http://sohanemon.netlify.app)
@@ -43,12 +42,12 @@ src="https://img.shields.io/twitter/follow/sohanemon?logo=twitter&style=for-the-
 
 <!-- skills  -->
 <br>
-<p align="center">
 <h1 align='center'  style='color: #7895B2'> 💪 Skills</h1>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+<p align="center">
+<!-- <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a> -->
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
@@ -62,11 +61,29 @@ src="https://img.shields.io/twitter/follow/sohanemon?logo=twitter&style=for-the-
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<!-- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a> -->
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
+
+
+
+<!-- github stats -->
+<h1 align='center' style='color: #7895B2'> 🔥 My streak stats and more</h1> 
+<p align='center'>
+  <img   src="https://github-readme-stats.vercel.app/api?username=sohanemon&show_icons=true&hide=&count_private=true&title_color=FB8C00&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=false&show_icons=true" alt="sohanemon's GitHub stats" />
+  
+ 
+ </p>
+
+ <p align='center'>
+ <img   src="https://github-readme-streak-stats.herokuapp.com/?user=sohanemon&background=0d1117&sideNums=E8DFCA&sideLabels=AEBDCA&currStreakNum=FB8C00&dates=AEBDCA" />
+  
+ </p>
+
+<p align='center'><a href="http://www.github.com/sohanemon"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sohanemon&bg_color=0d1117&color=ffffff&line=FB8C00&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+</p>
 
 
 <!-- connection section -->
@@ -83,28 +100,3 @@ src="https://img.shields.io/twitter/follow/sohanemon?logo=twitter&style=for-the-
     <img src='./images/buttons/twitter.png'>
 </a>
 </div>
-
-
-
-
-
-
-
- 
- <p align='center'>
- <img   src="https://github-readme-streak-stats.herokuapp.com/?user=sohanemon&background=0d1117&sideNums=E8DFCA&sideLabels=AEBDCA&currStreakNum=FB8C00&dates=AEBDCA" />
-  
- </p>
- <p align='center'>
- 
- <img   src="https://github-readme-stats.vercel.app/api?username=sohanemon&show_icons=true&hide=&count_private=true&title_color=FB8C00&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=false&show_icons=true" alt="sohanemon's GitHub stats" />
-  
- 
- </p>
- 
-  
-
-
-
-<p align='center'><a href="http://www.github.com/sohanemon"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sohanemon&bg_color=0d1117&color=ffffff&line=FB8C00&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-</p>
