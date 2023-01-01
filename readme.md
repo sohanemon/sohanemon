@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ![I am a new junior frontend developer](./images/dark.png)
 
 - 🌍 Based in [Dhaka, Bangladesh](https://goo.gl/maps/huvdBTHzafPSi3NG9)
-- 🖥️ See my portfolio at [SohanEmon](http://sohanemon.netlify.app)
+- 🖥️ To see my portfolio, [click here](http://sohanemon.netlify.app)
 - ✉️ Contact me at [m.sohanemon@gmail.com](mailto:m.sohanemon@gmail.com)
 
 <!-- follower card -->
