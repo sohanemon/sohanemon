@@ -98,5 +98,5 @@ src="https://img.shields.io/twitter/follow/sohanemon?logo=twitter&style=for-the-
 
 </div>
 
-<p align='center'><a href="http://www.github.com/sohanemon"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sohanemon&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<p align='center'><a href="http://www.github.com/sohanemon"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sohanemon&bg_color=0d1117&color=ffffff&line=FB8C00&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 </p>
