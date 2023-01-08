@@ -31,7 +31,7 @@ src="https://img.shields.io/twitter/follow/sohanemon?logo=twitter&style=for-the-
 
 ### 🔎 I’m looking - For an intern.
 
-### 🧠 I'm learning - GraphQL
+### 🧠 I'm learning - Three.js
 
 ### 🧑‍🤝‍🧑 I’m eager - To collaborating on Interesting Projects
 
