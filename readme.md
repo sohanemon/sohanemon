@@ -29,7 +29,7 @@ src="https://img.shields.io/twitter/follow/sohanemon?logo=twitter&style=for-the-
 <a  href="https://app.daily.dev/sohanemon"><img align='right'  width="150" src="https://api.daily.dev/devcards/a65c27b2cc174d40bf2c643b7da67366.png?r=hy5" align='center' alt="Sohanur Rahman Emon's Dev Card"/></a>
 <p>
 
-### 🔎 I’m looking - For an intern.
+### 🔎 I’m looking - For a Job.
 
 ### 🧠 I'm learning - Three.js
 
