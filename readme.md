@@ -92,7 +92,7 @@ src="https://img.shields.io/twitter/follow/sohanemon?logo=twitter&style=for-the-
 
 <!-- connection section -->
 <div align='center'>
-<h1  style='color: #7895B2'> 📨 Connect with me</h1>
+<h1  style='color: #7895B2'> 📬 Socials</h1>
 
  <!-- 
 <a target='_blank' class='' href='https://facebook.com/m.sohanemon'>
