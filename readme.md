@@ -4,7 +4,7 @@ Hi  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 <br>
 ===========================================================================================================================================
 
-![I am a new junior mern stack developer](./images/dark.png)
+![I am a junior mern stack developer](./images/dark.png)
 
 - 🌍 Based in [Dhaka, Bangladesh](https://goo.gl/maps/huvdBTHzafPSi3NG9)
 - 🖥️ To see my portfolio, [click here](http://sohanemon.netlify.app)
