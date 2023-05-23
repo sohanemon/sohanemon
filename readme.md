@@ -7,6 +7,7 @@ Hi  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 - 🌍 Based in [Dhaka, Bangladesh](https://goo.gl/maps/huvdBTHzafPSi3NG9)
 - 🖥️ To see my portfolio, [click here](http://sohanemon.netlify.app)
 - ✉️ Contact me at [m.sohanemon@gmail.com](mailto:m.sohanemon@gmail.com)
+- 📱 Lets talk at [Whatsapp](https://wa.me/8801626420807)
 
 <!-- follower card -->
 <br>
