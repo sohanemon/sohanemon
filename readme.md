@@ -88,12 +88,6 @@ src="https://img.shields.io/twitter/follow/sohanemon?logo=twitter&style=for-the-
 <!-- github stats -->
 <br>
 <br>
-<!--
-<h1 align='center' style='color: #7895B2'> 🔥 My current stats</h1> 
-<p align='center'>
-  <img   src="https://github-readme-stats.vercel.app/api?username=sohanemon&show_icons=true&hide=&count_private=true&title_color=FB8C00&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=false&show_icons=true" alt="sohanemon's GitHub stats" />
-  -->
- 
  </p>
 
  <p align='center'>
