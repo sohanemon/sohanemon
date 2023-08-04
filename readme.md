@@ -27,7 +27,7 @@ src="https://img.shields.io/twitter/follow/sohanemon?logo=twitter&style=for-the-
 <a  href="https://app.daily.dev/sohanemon"><img align='right'  width="150" src="https://api.daily.dev/devcards/a65c27b2cc174d40bf2c643b7da67366.png?r=hy5" align='center' alt="Sohanur Rahman Emon's Dev Card"/></a>
 <p>
 
-### 🔎 I’m looking - For job in a reputated company. [My Resume](https://drive.google.com/file/d/1r6rwOaL5-T7eFr97vGJi6OYOWRvMybpv/view)
+### 🔎 I’m looking - For job in a reputated company. [My resume](https://drive.google.com/file/d/1r6rwOaL5-T7eFr97vGJi6OYOWRvMybpv/view)
 
 ### 🧠 I'm learning - Three.js
 
