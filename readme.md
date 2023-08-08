@@ -96,7 +96,7 @@ src="https://img.shields.io/twitter/follow/sohanemon?logo=twitter&style=for-the-
   
  </p>
 
-[![SohanEmon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sohanemon&bg_color=ffffff00&line=ff8500&color=ff8500)](https://sohanemon.netlify.app)
+[![SohanEmon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sohanemon&bg_color=ffffff00&point=ff8500&color=ffffff&line=ffffff)](https://sohanemon.netlify.app)
 
 
 <!-- connection section -->
