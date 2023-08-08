@@ -96,7 +96,7 @@ src="https://img.shields.io/twitter/follow/sohanemon?logo=twitter&style=for-the-
   
  </p>
 
-[![SohanEmon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sohanemon&bg_color=ffffff00&point=ffffff&color=e8e2ca&line=333333&hide_border=true&title_color=ffffff&custom_title=Sohan's)](https://sohanemon.netlify.app)
+[![SohanEmon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sohanemon&bg_color=ffffff00&point=ffffff&color=e8e2ca&line=555555&hide_border=true&title_color=ffffff&custom_title=SohanEmon's)](https://sohanemon.netlify.app)
 
 
 <!-- connection section -->
