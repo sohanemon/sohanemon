@@ -1,31 +1,34 @@
-Hi  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)This is 👇
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)This is 👇
 <br>
 ===========================================================================================================================================
 
 ![I am a junior mern stack developer](./images/dark.png)
 
-- 🌍 Based in [Dhaka, Bangladesh](https://goo.gl/maps/huvdBTHzafPSi3NG9)
-- 🖥️ To see my portfolio, [click here](http://sohanemon.netlify.app)
-- ✉️ Contact me at [m.sohanemon@gmail.com](mailto:m.sohanemon@gmail.com)
-- 💬 Lets talk on [Whatsapp](https://wa.me/8801626420807) /  [Telegram](https://t.me/sohanemon)
-
-<!-- follower card -->
-<br>
-<a href="https://www.github.com/sohanemon" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/sohanemon?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-<a href="https://www.twitter.com/sohanemon" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/sohanemon?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
-
-</p>
-
+<div align="center">
+  <a href="https://goo.gl/maps/huvdBTHzafPSi3NG9">🌍 Based in Dhaka, Bangladesh</a><br>
+  <a href="http://sohanemon.netlify.app">🖥️ Portfolio</a> | 
+  <a href="mailto:m.sohanemon@gmail.com">✉️ Contact</a> | 
+  <a href="https://wa.me/8801626420807">💬 WhatsApp</a> 
+ 
+</div>
+<br/>
+<div align="center">
+  <a href="https://www.github.com/sohanemon" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/github/followers/sohanemon?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="GitHub Followers" />
+  </a>
+  <a href="https://www.twitter.com/sohanemon" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/twitter/follow/sohanemon?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Twitter Followers" />
+  </a>
+</div>
 <!-- overview section -->
 <br>
 <h1 align='center' style='color: #7895B2'> 🪟 Current overview</h1>
 <br>
 
 <a  href="https://app.daily.dev/sohanemon"><img align='right'  width="150" src="https://api.daily.dev/devcards/a65c27b2cc174d40bf2c643b7da67366.png?r=hy5" align='center' alt="Sohanur Rahman Emon's Dev Card"/></a>
+
 <p>
+<div>
 
 ### 🔎 I’m looking - For job in a reputated company. [My resume](https://drive.google.com/file/d/1r6rwOaL5-T7eFr97vGJi6OYOWRvMybpv/view)
 
@@ -35,14 +38,12 @@ src="https://img.shields.io/twitter/follow/sohanemon?logo=twitter&style=for-the-
 
 ### ⚡ My motivation - Act what you want to be.
 
+</div>
 </p>
-
 
 <br>
 <br>
 <h1 align='center'  style='color: #7895B2'> 💪 Skills</h1>
-
-
 
 <p align="center">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
@@ -82,9 +83,14 @@ src="https://img.shields.io/twitter/follow/sohanemon?logo=twitter&style=for-the-
 <a href="https://web3js.readthedocs.io/en/v1.7.1/#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" width="36" height="36" alt="Web3Js" /></a>
 </p>
 
-
-
-
+<!-- Add your npm packages section here -->
+<br/>
+<h1  align='center'  style='color: #7895B2'> 📦 NPM Packages</h1>
+<ul style='display:flex; flex-wrap: wrap; justify-content: center; gap: 25px;'>
+  <li><a href="https://www.npmjs.com/package/@sohanemon/next-image">@sohanemon/next-image</a></li>
+  <li><a href="https://www.npmjs.com/package/@sohanemon/motion">@sohanemon/motion</a></li>
+  <li><a href="https://www.npmjs.com/package/@sohanemon/utils">@sohanemon/utils</a></li>
+</ul>
 
 <!-- github stats -->
 <br>
@@ -98,12 +104,10 @@ src="https://img.shields.io/twitter/follow/sohanemon?logo=twitter&style=for-the-
 
 [![SohanEmon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sohanemon&bg_color=ffffff00&point=ffffff&color=e8e2ca&line=555555&hide_border=true&title_color=ffffff&custom_title=SohanEmon's)](https://sohanemon.netlify.app)
 
-
 <!-- connection section -->
 <div align='center'>
 <h1  style='color: #7895B2'> 📬 Socials</h1>
 
-  
-<p align="center"> <a href="https://www.codepen.io/sohanemon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://codesandbox.io/u/sohanemon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" width="32" height="32" /></a> <a href="https://www.dev.to/sohanemon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://discord.com/users/sohanemon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.dribbble.com/sohanemon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/m.sohanemon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a><a href="https://sohanemon.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/m.sohanemon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sohanemon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/sohanemon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/sohanemon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/sohanemon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="center" style='display:flex; justify-content: center; flex-wrap: wrap;gap: 15px'> <a href="https://www.codepen.io/sohanemon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://codesandbox.io/u/sohanemon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" width="32" height="32" /></a> <a href="https://www.dev.to/sohanemon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://discord.com/users/sohanemon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.dribbble.com/sohanemon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/m.sohanemon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a><a href="https://sohanemon.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/m.sohanemon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sohanemon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/sohanemon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/sohanemon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/sohanemon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
  
 </div>
