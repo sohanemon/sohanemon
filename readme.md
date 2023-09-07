@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <div align="center">
   <a href="https://goo.gl/maps/huvdBTHzafPSi3NG9">🌍 Based in Dhaka, Bangladesh</a><br>
   <a href="http://sohanemon.netlify.app">🖥️ Portfolio</a> | 
-  <a href="mailto:m.sohanemon@gmail.com">✉️ Contact</a> | 
+  <a href="mailto:mr.es20x@gmail.com">✉️ Contact</a> | 
   <a href="https://wa.me/8801626420807">💬 WhatsApp</a> 
  
 </div>
