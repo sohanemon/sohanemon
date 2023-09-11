@@ -65,8 +65,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
+<a href="https://sanity.io/" target="_blank" rel="noreferrer"><img src="./images/tech-stack/sanity.svg" width="36" height="36" alt="sanity" /></a>
+<a href="https://contentful.com/" target="_blank" rel="noreferrer"><img src="./images/tech-stack/contentful.svg" width="36" height="36" alt="contentful" /></a>
+<a href="https://jsdom.com/" target="_blank" rel="noreferrer"><img src="./images/tech-stack/jsdom.svg" width="36" height="36" alt="jsdom" /></a>
+<a href="https://puppeteer.com/" target="_blank" rel="noreferrer"><img src="./images/tech-stack/puppeteer.svg" width="36" height="36" alt="puppeteer" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://github.com/sohanemon/sohanemon/blob/ac518d1c0d1dde8b205c0c52b8ee85db4cf50a31/images/tech-stack/icons8-express-js.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="./images/tech-stack/express.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
 <a href="https://prisma.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sohanemon/sohanemon/main/images/tech-stack/prisma.webp" width="36" height="36" alt="GraphQL" /></a>
   <a href="https://trpc.io/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/78011399?v=4" width="36" height="36" alt="tRPC" /></a>
@@ -83,13 +87,23 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://web3js.readthedocs.io/en/v1.7.1/#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" width="36" height="36" alt="Web3Js" /></a>
 </p>
 
-<!-- Add your npm packages section here -->
+<!-- My npm packages section here -->
 <br/>
 <h1  align='center'  style='color: #7895B2'> 📦 NPM Packages</h1>
 <ul style='display:flex; flex-wrap: wrap; justify-content: center; gap: 25px;'>
   <li><a href="https://www.npmjs.com/package/@sohanemon/next-image">@sohanemon/next-image</a></li>
   <li><a href="https://www.npmjs.com/package/@sohanemon/motion">@sohanemon/motion</a></li>
   <li><a href="https://www.npmjs.com/package/@sohanemon/utils">@sohanemon/utils</a></li>
+</ul>
+
+<!-- My VSCode extension section here -->
+<br/>
+<h1  align='center'  style='color: #7895B2'> 🐝 VSCode Extensions</h1>
+<ul style='display:flex; flex-wrap: wrap; justify-content: center; gap: 25px;'>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=SohanEmon.react-next-js-code-snippets">React Next JS Code Snippets</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=SohanEmon.auto-commit-gpt">Auto Commit with GPT
+</a></li>
+  <li><a href="https://marketplace.visualstudio.com/items?itemName=SohanEmon.oneman-web-extensions">OneMan Web Extensions</a></li>
 </ul>
 
 <!-- github stats -->
