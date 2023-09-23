@@ -10,7 +10,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - 🧠 I'm learning GraphQL
 - 🤝 I'm open to collaborating on Interesting Projects
 - ⚡ Acting what I want to be.
-
+ <img
+        alt="Profile views"
+        src="https://komarev.com/ghpvc/?username=sohanemon&style=flat-square&color=gray"
+      />
 <a href="https://www.github.com/sohanemon" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/sohanemon?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/sohanemon" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/sohanemon?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
