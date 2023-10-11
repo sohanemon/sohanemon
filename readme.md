@@ -87,6 +87,16 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://web3js.readthedocs.io/en/v1.7.1/#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" width="36" height="36" alt="Web3Js" /></a>
 </p>
 
+<!-- My blogs section here -->
+<br/>
+<h1  align='center'  style='color: #7895B2'> 📝 Recent Blogs</h1>
+<ul style='display:flex; flex-wrap: wrap; justify-content: center; gap: 25px;'>
+  <li><a href="https://sohanemon.vercel.app/article/grouping-variants-in-tailwind-css-made-easy">Grouping Variants in Tailwind CSS Made Easy</a></li>
+  <li><a href="https://sohanemon.vercel.app/article/making-sticky-work-in-complex-layouts">Making "Sticky" Work in Complex Layouts</a></li>
+  <li><a href="https://sohanemon.vercel.app/article/navigating-your-way-next-js-routing-cheat-sheet-app-dir">Navigating Your Way: Next.js Routing Cheat sheet (App-Dir)</a></li>
+
+</ul>
+
 <!-- My npm packages section here -->
 <br/>
 <h1  align='center'  style='color: #7895B2'> 📦 NPM Packages</h1>
