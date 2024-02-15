@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <br>
 ===========================================================================================================================================
 
-![I am a junior mern stack developer](./images/dark.png)
+![a software developer](./images/gh-cover-dark.svg)
 
 <div align="center">
   <a href="https://goo.gl/maps/huvdBTHzafPSi3NG9">🌍 Based in Dhaka, Bangladesh</a><br>
