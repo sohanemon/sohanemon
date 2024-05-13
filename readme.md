@@ -25,8 +25,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <h1 align='center' style='color: #7895B2'> 🪟 Current overview</h1>
 <br>
 
-<a  href="https://app.daily.dev/sohanemon"><img align='right'  width="150" src="https://api.daily.dev/devcards/a65c27b2cc174d40bf2c643b7da67366.png?r=hy5" align='center' alt="Sohanur Rahman Emon's Dev Card"/></a>
-
+<a href="https://app.daily.dev/sohanemon"><img src="https://api.daily.dev/devcards/v2/VA8r71eGEp21nwGpaZGKh.png?r=hrw&type=default" width="356" alt="Sohanur Rahman Emon's Dev Card"/></a>
 <p>
 <div>
 
