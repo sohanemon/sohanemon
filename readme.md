@@ -8,7 +8,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <a href="https://goo.gl/maps/huvdBTHzafPSi3NG9">🌍 Based in Dhaka, Bangladesh</a><br>
   <a href="http://sohanemon.vercel.app">🖥️ Portfolio</a> | 
   <a href="mailto:sohanemon@outlook.com">✉️ Contact</a> | 
-  <a href="https://wa.me/8801626420807">💬 WhatsApp</a> 
+  <a href="https://wa.me/8801626420807">📞 WhatsApp</a> 
+  <a href="https://t.me/sohanemon">💬 Telegram</a> 
  
 </div>
 <br/>
