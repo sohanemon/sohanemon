@@ -2,7 +2,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <br>
 ===========================================================================================================================================
 
-![a software developer](./images/gh-cover-dark.svg)
+<div align="center">
+    <img src="./images/gh-cover-dark.svg" alt="a software developer">
+</div>
 
 <div align="center">
   <a href="https://goo.gl/maps/huvdBTHzafPSi3NG9">🌍 Based in Dhaka, Bangladesh</a><br>
@@ -13,6 +15,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
  
 </div>
 <br/>
+ <!---
 <div align="center">
   <a href="https://www.github.com/sohanemon" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/github/followers/sohanemon?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="GitHub Followers" />
@@ -20,7 +23,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <a href="https://www.twitter.com/sohanemon" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/twitter/follow/sohanemon?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Twitter Followers" />
   </a>
-</div>
+</div> 
+  --->
+
 <!-- overview section -->
 <br>
 <h1 align='center' style='color: #7895B2'> 🪟 Current overview</h1>
@@ -66,6 +71,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://prisma.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/sohanemon/sohanemon/main/images/tech-stack/prisma.webp" width="36" height="36" alt="GraphQL" /></a>
 <a href="https://trpc.io/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/78011399?v=4" width="36" height="36" alt="tRPC" /></a>
 </p>
+<br/>
+
 
 <!-- My blogs section here -->
 <br/>
@@ -101,13 +108,18 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <!-- github stats -->
 <br>
 <br>
- </p>
+</p>
 
  <p align='center'>
  <img   src="https://github-readme-streak-stats.herokuapp.com/?user=sohanemon&background=0d1117&sideNums=E8DFCA&sideLabels=AEBDCA&currStreakNum=FB8C00&dates=AEBDCA" />
-  
  </p>
+<div align="center">
+    <img src="https://roadmap.sh/card/wide/66d298b6553501e3c3427a72?variant=dark&roadmaps=typescript%2Creact-native%2Creact" alt="roadmap.sh">
+</div>
 
+<!---
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sohanemon&theme=github_dark)
+-->
 [![SohanEmon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sohanemon&bg_color=ffffff00&point=ffffff&color=e8e2ca&line=555555&hide_border=true&title_color=ffffff&custom_title=SohanEmon's)](https://sohanemon.netlify.app)
 
 <!-- connection section -->
