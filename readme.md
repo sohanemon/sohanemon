@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&letterSpacing=tiny&duration=2000&pause=10000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi👋,++This+is+👇)](https://git.io/typing-svg)
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)This is 👇
 <br>
 ===========================================================================================================================================
 
@@ -7,7 +7,13 @@
 </div>
 
 <div align="center">
-  <a href="https://goo.gl/maps/huvdBTHzafPSi3NG9">🌍 Based in Dhaka, Bangladesh</a><br>
+<a href="https://goo.gl/maps/huvdBTHzafPSi3NG9" style="display: flex; flex-direction: column; align-items: center;">
+    <img 
+        src="https://readme-typing-svg.demolab.com?size=20&letterSpacing=tiny&duration=5000&pause=1000&color=4493F8&center=true&vCenter=true&width=435&lines=Sohan+R.+Emon;A+passionate+developer;%F0%9F%8C%8D+Based+in+Dhaka;Working+remotely" 
+        alt=""
+    />
+</a>
+<br>
   <a href="http://sohanemon.vercel.app">🖥️ Portfolio</a> | 
   <a href="mailto:sohanemon@outlook.com">✉️ Contact</a> | 
   <a href="https://wa.me/8801626420807">📞 WhatsApp</a> 
