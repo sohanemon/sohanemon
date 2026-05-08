@@ -1,4 +1,4 @@
-# Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="24" height="24" /> This is 👇
+# Hi <img id="hi-icon" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="24" height="24" /> This is 👇
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/sohanemon/sohanemon/main/images/gh-cover-dark.svg" alt="a software developer">
@@ -83,15 +83,15 @@
 
 <br>
 
-<p align="center">
+<p align="center" id="streak-stats" >
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohanemon&background=0d1117&sideNums=E8DFCA&sideLabels=AEBDCA&currStreakNum=FB8C00&dates=AEBDCA" />
 </p>
 
-<p align="center">
+<p align="center" id="roadmap-stats">
   <img src="https://roadmap.sh/card/wide/66d298b6553501e3c3427a72?variant=dark&roadmaps=typescript%2Creact-native%2Creact" alt="roadmap.sh" />
 </p>
 
-<p align="center">
+<p align="center" id="contribution-stats" >
   <a href="https://sohanemon.netlify.app"><img src="https://github-readme-activity-graph.vercel.app/graph?username=sohanemon&bg_color=ffffff00&point=ffffff&color=e8e2ca&line=555555&hide_border=true&title_color=ffffff&custom_title=SohanEmon's" /></a>
 </p>
 
