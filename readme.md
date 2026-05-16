@@ -21,7 +21,7 @@
 
 <a href="https://app.daily.dev/sohanemon"><img align='right' width="150" src="https://api.daily.dev/devcards/v2/VA8r71eGEp21nwGpaZGKh.png?r=hrw&type=default" alt="Sohanur Rahman Emon's Dev Card"/></a>
 
-### 🔎 I'm exploring - New opportunities. [My resume](https://drive.google.com/file/d/1r6rwOaL5-T7eFr97vGJi6OYOWRvMybpv/view)
+### 🔎 I'm exploring - New opportunities. [My resume](https://sohanscript.vercel.app/resume)
 ### 🧠 I'm learning - Three.js
 ### 🧑‍🤝‍🧑 I'm eager - To collaborating on Interesting Projects
 ### ⚡ My motivation - Act what you want to be.
