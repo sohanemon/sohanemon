@@ -9,7 +9,7 @@
     <img src="https://readme-typing-svg.demolab.com?size=20&letterSpacing=tiny&duration=5000&pause=1000&color=4493F8&center=true&vCenter=true&width=435&lines=Sohan+R.+Emon;A+passionate+developer;%F0%9F%8C%8D+Based+in+Dhaka;Working+remotely" alt="" />
 </a>
 <br>
-  <a href="http://sohanemon.vercel.app">🖥️ Portfolio</a> | 
+  <a href="http://sohanscript.web.app">🖥️ Portfolio</a> | 
   <a href="mailto:sohanemon@outlook.com">✉️ Contact</a> | 
   <a href="https://wa.me/8801626420807">📞 WhatsApp</a> 
   <a href="https://t.me/sohanemon">💬 Telegram</a>
@@ -58,9 +58,9 @@
 <br>
 <h1 align='center'> 📝 Recent Blogs</h1>
 <p align="center">
-  <a href="https://sohanemon.vercel.app/article/grouping-variants-in-tailwind-css-made-easy">Grouping Variants in Tailwind CSS Made Easy</a> &nbsp;•&nbsp;
-  <a href="https://sohanemon.vercel.app/article/making-sticky-work-in-complex-layouts">Making "Sticky" Work in Complex Layouts</a> &nbsp;•&nbsp;
-  <a href="https://sohanemon.vercel.app/article/navigating-your-way-next-js-routing-cheat-sheet-app-dir">Navigating Your Way: Next.js Routing Cheat sheet (App-Dir)</a>
+  <a href="https://sohanscript.web.app/article/grouping-variants-in-tailwind-css-made-easy">Grouping Variants in Tailwind CSS Made Easy</a> &nbsp;•&nbsp;
+  <a href="https://sohanscript.web.app/article/making-sticky-work-in-complex-layouts">Making "Sticky" Work in Complex Layouts</a> &nbsp;•&nbsp;
+  <a href="https://sohanscript.web.app/article/navigating-your-way-next-js-routing-cheat-sheet-app-dir">Navigating Your Way: Next.js Routing Cheat sheet (App-Dir)</a>
 </p>
 
 <br>
