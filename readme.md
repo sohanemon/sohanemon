@@ -91,10 +91,6 @@
   <img src="https://roadmap.sh/card/wide/66d298b6553501e3c3427a72?variant=dark&roadmaps=typescript%2Creact-native%2Creact" alt="roadmap.sh" />
 </p>
 
-<p align="center" id="contribution-stats" >
-  <a href="https://sohanemon.netlify.app"><img src="https://github-readme-activity-graph.vercel.app/graph?username=sohanemon&bg_color=ffffff00&point=ffffff&color=e8e2ca&line=555555&hide_border=true&title_color=ffffff&custom_title=SohanEmon's" /></a>
-</p>
-
 <div align='center'>
 <h1> 📡 Signal</h1>
 
